@@ -1,1 +1,6 @@
-/* Put your CSS here. */
+body {
+  background-color: powderblue;
+}
+p {
+  color: tomato;
+}
